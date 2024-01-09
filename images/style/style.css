@@ -1,0 +1,58 @@
+.diva{
+    height: 800px;
+    background-image: url('/images/Banner\ Image.png');
+    background-repeat: no-repeat;
+    background: linear-gradient();}
+    
+.head1{
+    color: #FFF;
+text-align: center;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-top: 150px;
+}
+
+
+.head2{color: #FFF;
+    text-align: center;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 95px; /* 131.944% */
+    margin-top: 20px;
+    margin-right: 400px;
+    margin-left: 400px;
+    opacity: 1.8;
+
+}
+.off{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.holiday{
+    color: #F00;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.all{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.happ{
+    margin-left: 200px;
+}
